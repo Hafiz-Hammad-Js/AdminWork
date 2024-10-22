@@ -1,0 +1,36 @@
+.navbar{
+    background-color: rgb(255, 217, 4);
+  
+}
+.side-bar{
+    background-color: black;
+    color: white;
+}
+.check>ul>.nav-item>.nav-link{
+   color: rgba(252, 194, 4,);
+}
+.navbar .navbar-brand {
+    color:  black;
+    font-size: 24px;
+    font-weight: 700;
+    padding: 10px;
+}
+
+.navbar .nav-link {
+    color: rgb(255, 217, 4); 
+    font-weight: 700;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.navbar .nav-link:hover{
+    color: white;
+}
+.heading{
+    font-size: 24px;
+    font-weight: 700;
+}
+.navbar-toggler{
+    background-color: rgb(255, 217, 4);
+   
+}

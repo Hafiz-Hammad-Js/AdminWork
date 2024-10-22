@@ -1,0 +1,17 @@
+.parent-hon{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: 50px;
+}
+.parent-hon>img{
+    width: 100%;
+}
+.graph{
+    background-color: rgb(255,220,19);
+    width: 300px;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+}

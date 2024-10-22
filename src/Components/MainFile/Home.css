@@ -1,0 +1,37 @@
+.my-component {
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/my-protfolio-img-data.appspot.com/o/Myimage%20-%20networking-1626665_1920.jpg?alt=media&token=63052484-4871-4385-8ab7-cbc7060e3725'); /* Image ka path specify karein */
+    background-size: cover; /* Image ko pura fit karne ke liye */
+    background-position: center; /* Image ko center mein position karne ke liye */
+    height: 100vh; /* Component ko viewport ke height ke barabar karna */
+    width: 100%; /* Full width cover karne ke liye */
+    color: white; /* Text color ko white karne ke liye */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.Name{
+    color: rgb(255, 217, 3);
+    font-size: 50px;
+    font-weight: 900;
+}
+.sp-1{
+    background-color: rgb(255, 217, 3);
+    color: black;
+    padding: 4px;
+}
+.headWork{
+    font-family: 60px;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "my-font";
+    src: url("../fonts/Creattion\ Demo.otf");
+}
+.WorkName{
+    font-family: "my-font";
+    margin-top: 50px;
+    font-size: 100px;
+    font-weight: 500;
+    color: rgb(255, 217, 3) ;
+}

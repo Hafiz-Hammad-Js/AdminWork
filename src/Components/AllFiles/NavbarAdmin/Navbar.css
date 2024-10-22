@@ -1,0 +1,77 @@
+.uploqadSide {
+    background-color: white;
+    margin-top: 10px;
+    padding: 20px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.inpuu[type="file"] {
+    display: none;
+}
+
+/* Custom label ko style karna */
+.custom-file-upload {
+    background-color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: black;
+    font-weight: 700;
+}
+
+.custom-file-upload:hover {
+
+    color: rgb(255, 220, 19);
+}
+
+.NAv-btn {
+    background-color: rgb(255, 220, 19);
+    border: none;
+    border-radius: 30px;
+    padding: 10px 20px 10px 20px;
+    font-weight: 700;
+}
+
+.image-parentNavbar {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 4px solid rgb(255, 220, 19);
+    margin-top: 20px;
+}
+
+.image-parentNavbar>img {
+    width: 100%;
+}
+
+.getNav-btn {
+    background-color:rgb(255, 220, 19);
+    color: black;
+    border: none;
+    border-radius: 30px;
+    padding: 10px 20px 10px 20px ;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+.getNav-btn:hover{
+    color: white;
+}
+.gerDataNav-parent{
+    display: flex;
+    justify-content: center;
+}
+.label-parent{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.navAdminHead{
+    text-align: center;
+    padding: 20px;
+    color:rgb(255, 220, 19);
+    margin-top: 150px;
+}

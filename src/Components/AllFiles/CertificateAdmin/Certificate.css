@@ -1,0 +1,51 @@
+label {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.img-parent-hon {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+.img-parent-hon>img {
+    width: 100%;
+}
+
+.certificate-parent {
+    margin-top: 130px;
+}
+
+.certparent {
+    background-color: rgb(255, 220, 19);
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+    width: 300px;
+}
+
+.certparent>h2 {
+    font-size: 20px;
+    color: black;
+
+}
+
+.certparent>h1 {
+    font-size: 20px;
+    color: black;
+}
+
+.certparent>button {
+    background-color: black;
+    color: rgb(255, 220, 19);
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+}

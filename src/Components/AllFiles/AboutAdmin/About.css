@@ -1,0 +1,101 @@
+.form-parentHeader{
+    background-color: rgb(255, 220, 19);
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    border-radius: 30px;
+}
+.cv-about-Img-parent{
+    display: flex;
+    justify-content: center;
+}
+.cv-about-Img-child{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    font-weight: 700;
+ 
+}
+.cv-about-Img-child:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.Img-child{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-weight: 700;
+}
+.inpu-work{
+    padding: 10px;
+    border-radius: 20px;
+    outline: none;
+    border: 3px solid black;
+}
+.btnn-parent-about{
+    display: flex;
+    justify-content: center;
+}
+.btnn-parent-about>button{
+    background-color: black;
+    color:rgb(255, 220, 19) ;
+    border: none;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.btnn-parent-about>button:hover{
+    background-color: black;
+    color: white;
+}
+.hr-color{
+   margin-top: 50px;
+    border: 5px solid rgb(255, 220, 19);
+}
+.heading-about{
+    text-align: center;
+    margin-top: 130px;
+    color: rgb(255, 220, 19);
+}
+.heading-about1{
+    text-align: center;
+    margin-top: 20px;
+    color: rgb(255, 220, 19);
+}
+.about-parent-img{
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 50%; 
+    border: 4px solid rgb(255, 220, 19);  
+}
+.about-parent-img>img{
+    width: 100%;
+}
+.about-parent-img-aboutSide{
+    width: 300px;
+    height: auto;
+    border-radius: 20px;
+    overflow: hidden;
+    border: 4px solid rgb(255, 220, 19);
+    margin-top: 20px;
+}
+.about-parent-img-aboutSide>img{
+    width: 100%;
+}
+.h4-work{
+    color: rgb(255, 220, 19);
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 20px;
+    text-align: center;
+}
+.parent-data-about{
+    display: flex;
+    justify-content: center;
+}
+.img-flex-work{
+    display: flex;
+    justify-content: center;
+}

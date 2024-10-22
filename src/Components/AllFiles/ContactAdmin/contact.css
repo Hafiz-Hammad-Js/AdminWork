@@ -1,0 +1,29 @@
+.contact{
+    margin-top: 130px;
+}
+.lenghtWork{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 30px;
+}
+.parentTable{
+    background-color: rgb(255,220,19);
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.sender{
+    font-size: 24px;
+    font-weight: 600;
+    color: black;
+    padding: 10px;
+}
+.rcver{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    font-size: 24px;
+    font-weight: 600;
+    border-radius: 20px;
+}
